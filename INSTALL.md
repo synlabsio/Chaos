@@ -8,4 +8,5 @@ At Mudlet's command line, simply enter
 `lua downloadFile(getMudletHomeDir().."/chaos.lua", [[https://github.com/fgdfgfd/Chadfgdfg/blob/main/fdgfgh.lua]])`
 and hit enter.
 
-## For experienced developers, simply clone the repository to your chosen location and require `chaos.lua` either on an event or in a script somewhere.
+## For experienced developers.
+Simply clone the repository to your chosen location and require `chaos.lua` either on an event or in a script somewhere.
