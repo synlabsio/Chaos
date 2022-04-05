@@ -1,0 +1,20 @@
+{
+    "Lua.diagnostics.globals": [
+        "cecho",
+        "tempLineTrigger",
+        "resetFormat",
+        "replace",
+        "selectString",
+        "ascii_to_num",
+        "getTime",
+        "line",
+        "high",
+        "low",
+        "echo",
+        "getMudletHomeDir",
+        "raiseEvent"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field"
+    ]
+}
