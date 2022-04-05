@@ -40,7 +40,8 @@ local modules = {
     "queue",
     "timers",
     "ui",
-    "util"
+    "util",
+    "zdata"
 }
 
 for _, module in ipairs(modules) do

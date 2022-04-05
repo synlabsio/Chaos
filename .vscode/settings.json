@@ -12,7 +12,24 @@
         "low",
         "echo",
         "getMudletHomeDir",
-        "raiseEvent"
+        "raiseEvent",
+        "rainbow",
+        "hecho",
+        "createStopWatch",
+        "stopStopWatch",
+        "resetStopWatch",
+        "setFontSize",
+        "Geyser",
+        "main",
+        "gmcp",
+        "startStopWatch",
+        "registerAnonymousEventHandler",
+        "Adjustable",
+        "cechoLink",
+        "db",
+        "clearWindow",
+        "spairs",
+        "getStopWatchTime"
     ],
     "Lua.diagnostics.disable": [
         "undefined-field"
